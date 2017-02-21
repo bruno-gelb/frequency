@@ -1,1 +1,3 @@
 numpy==1.12.0
+ipython==0.13.1
+pyreadline==2.1
